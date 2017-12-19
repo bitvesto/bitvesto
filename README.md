@@ -18,9 +18,11 @@ These are the list:
 }
 ```
 
-+ Response 200
++ Response 200 
 ```json
 {
     "access_token": "this-is-complex-string"
 }
 ```
+
++ Response 401
